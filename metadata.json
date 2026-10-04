@@ -1,0 +1,6 @@
+{
+  "name": "SISUPERMAN KS - Sistem Informasi Supervisi Manajemen Kepala Sekolah",
+  "description": "Aplikasi Supervisi Administrasi Kepala Sekolah dengan Dashboard Pengawas, Daftar Sekolah Tersupervisi, Grafik Capaian Nilai per Sekolah, dan Instrumen 57 Indikator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
